@@ -17,3 +17,4 @@ def products():
         "<li>%s</li>" % product for product in product_list
         )
     return "<ul>%s</ul>" % bullet_list
+
